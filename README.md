@@ -1,4 +1,4 @@
-# Feelling
+# Feelings
 **E-Therapist: AI-Based Sentiment Analysis and Response Generator**
 
 E-Therapist is an AI-based application that leverages Natural Language Processing (NLP) and sentiment analysis to provide supportive responses to user input. This project combines two crucial components:
